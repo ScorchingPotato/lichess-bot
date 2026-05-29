@@ -1,2 +1,0 @@
-[start]
-cmd = "chmod +x chessengine/engine && python3 lichess-bot.py"
