@@ -1,5 +1,5 @@
 CXX      := g++
-CXXFLAGS := -std=c++20 -O3  -Wall -Wextra
+CXXFLAGS := -std=c++20 -O3  -Wall -Wextra -static
 INCLUDES := -Iinclude
 
 SRC_DIR  := src
